@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/49158754/95065295-c57ea700-06f8-11eb-8e4d-e1dd63858b96.png" width="500" >
-</p>
-
 <h1 align="center">Typing Effect</h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49158754/95065295-c57ea700-06f8-11eb-8e4d-e1dd63858b96.png" width="500"/>
+</p>
 
 ---
 ## 📋 Index
@@ -16,16 +16,16 @@
 ## 🚀 Project Description
 <p>The Typing Effect was developed through the <a href="https://www.youtube.com/watch?v=POX3dT-pB4E&ab_channel=TraversyMedia">Traversy Media YouTube Channel</a>.
 
-The Showcase picture is from Porto, Portugal and I took it during the popular party of St John Oporto.
+The Showcase picture is from Porto, Portugal and I took it during the popular party of St John Oporto.</p>
 
 --- 
 <a name="-The-Technologies-used"></a>
 ## 🛠️ The Technologies used 
 
-<p>The follow tools were used in this project:</p>
-- HTML5
-- CSS3
-- JavaScript
+The follow tools were used in this project:
+* HTML5
+* CSS3
+* JavaScript
 
 ---
 <a name="-How-to-execute-the-project"></a>
